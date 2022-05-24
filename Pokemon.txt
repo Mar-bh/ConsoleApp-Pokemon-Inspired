@@ -1,0 +1,15 @@
+Bulbasaur Planta 1
+Charmander Fuego 14
+Squirtle Agua 12
+Caterpie Bicho 10 
+Katuna Veneno 20
+Pidgey Normal 24
+Ekans Veneno 19
+Pikachu Electrico 34
+Sandshrew Tierra 3
+Clefairy Hada 47
+Vulpix Fuego 5
+Jigglypuff Hada 80
+Oddish Planta 91
+Paras Bicho 16
+Psyduck Agua  66
