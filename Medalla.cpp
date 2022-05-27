@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-/* Descripcion = declaracion de los metodos de la clase Medalla
-Autor: Mariana Esquivel Hernández - 01641224
-=======
 /* Descripcion: declaracion de los metodos de la clase pokebola
-Autor: Mariana Esquivel Hernández - 
->>>>>>> 59e867d7505525a6bace72aed94ca32bb10332fc
 */
 #include <iostream>
 #include "Medalla.h"

@@ -1,5 +1,4 @@
 /* Descripcion: declaracion de los metodos de la clase pokebola
-Autor: Mariana Bustos Hernández - a01641324
 */
 #include <iostream>
 #include "Pokebola.h"

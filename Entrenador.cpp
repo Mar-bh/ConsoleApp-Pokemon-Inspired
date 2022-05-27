@@ -1,5 +1,4 @@
 /* Descripcion = declaracion de los metodos de la clase Entrenador
-Autor: Mariana Esquivel Hernández - 01641224
 */
 //Implementacion de la clase
 #include <iostream>

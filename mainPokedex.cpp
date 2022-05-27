@@ -1,8 +1,4 @@
 /* Descripción: main de royecto integrador. Menu que permite registrarse como entrenador pokemon y realizar actividades relacionadas con esto
-Autores:
-Mariana Bustos Hernandez - A01641324
-Mariana Esquivel Hernandez -  A01641244
-Fecha: 02 12 2021
 */
 #include <iostream>
 #include <fstream>
